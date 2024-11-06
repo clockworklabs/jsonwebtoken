@@ -1,5 +1,5 @@
 [package]
-name = "jsonwebtoken"
+name = "spacetimedb-jsonwebtoken"
 version = "9.3.0"
 authors = ["Vincent Prouillet <hello@vincentprouillet.com>"]
 license = "MIT"
